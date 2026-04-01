@@ -10,17 +10,3 @@
 
 ---
 
-## 一分钱也是爱
-
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <strong>微信支付</strong><br>
-    <img src="weixin.jpg" width="200"><br>
-    微信扫一扫
-  </div>
-  <div style="text-align: center;">
-    <strong>支付宝</strong><br>
-    <img src="zhifubao.jpg" width="200"><br>
-    支付宝扫一扫
-  </div>
-</div>
